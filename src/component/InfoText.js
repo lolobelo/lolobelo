@@ -78,7 +78,7 @@ function InfoText(props) {
             </p>
 
             <div className="btn_wrapper">
-                <a className="btn view_more_btn" href="/#">
+                <a className="btn view_more_btn" href="/Carta_Virtual_LOLOBELO.pdf" download="Carta Virtual Lolobelo.pdf">
                     Ver Carta <i className="ri-arrow-right-line"></i>
                 </a>
 
